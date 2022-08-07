@@ -10,3 +10,5 @@ This is a local photo album implemented with **Flutter** and **Dart** in iOS.
 - Show the size of the photo
 ### Demo Video
 - https://youtu.be/Wxq8-tjX6zA
+
+https://user-images.githubusercontent.com/26958630/183307582-555e708a-2941-4b47-965c-c14e2b69dd1b.mp4
